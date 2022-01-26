@@ -11,6 +11,8 @@ Gendered language is more than just about which article is used. It changes the 
 
 [[Masculine or Feminine?]]
 
+[[a slip-box is not a collection of notes; it is a collection of thoughts and ideas.]] 
+
 
 ---
 ## Tags
