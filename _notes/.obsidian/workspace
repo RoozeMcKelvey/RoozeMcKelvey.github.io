@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public/subfolder/note about pasta.md",
+            "file": "Public/note about pasta.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/subfolder/note about pasta.md",
+                "file": "Public/note about pasta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,8 @@
   },
   "active": "27ff544a0a45ce99",
   "lastOpenFiles": [
-    "Public/subfolder/note about pasta.md",
+    "Public/note about pasta.md",
+    "Public/subfolder/pasta.md",
     "Public/note about sauce.md",
     "Public/Markdown Rendered.md",
     "Public/Hidden Note.md",
