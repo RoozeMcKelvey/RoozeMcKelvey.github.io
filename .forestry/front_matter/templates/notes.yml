@@ -1,0 +1,19 @@
+---
+label: notes
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: text
+  name: notetype
+  label: notetype
+  config:
+    required: true
+  default: feed
+- type: datetime
+  name: date
+  label: date
+  default: now
