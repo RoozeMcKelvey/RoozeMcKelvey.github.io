@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/My Vade Mecum.md",
+            "file": "_notes/Public/defined.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/My Vade Mecum.md",
+                "file": "_notes/Public/defined.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "ffba0c594aa86d34",
   "lastOpenFiles": [
+    "_notes/Public/defined.md",
     "_notes/Public/My Vade Mecum.md",
     "_notes/Public/Look Here.md",
-    "_notes/Public/defined.md",
     "_notes/Private/Markdown Rendered.md",
     "pages/notes.md",
     "pages/posts.md",
