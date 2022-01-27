@@ -7,12 +7,8 @@
         "id": "27ff544a0a45ce99",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Public/note about pasta.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/note about pasta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
