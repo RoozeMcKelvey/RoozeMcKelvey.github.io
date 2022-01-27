@@ -84,8 +84,14 @@ preferences:
 encoding: utf-8
 
 # Build settings
-theme: jekyll-theme-cayman
+remote_theme: alex-1900/jekyll-theme-morph
+
+permalink: /:year/:month/:day/:title.markdown
+paginate: 5
+
 plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-tidy
