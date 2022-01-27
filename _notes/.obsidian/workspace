@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public/Welcome to the garden.md",
-            "mode": "preview"
+            "file": "Public/subfolder/Hello.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Welcome to the garden.md",
+                "file": "Public/subfolder/Hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,10 @@
   },
   "active": "27ff544a0a45ce99",
   "lastOpenFiles": [
+    "Public/subfolder/Hello.md",
+    "Public/subfolder/Hidden Note.md",
     "Public/Welcome to the garden.md",
     "Public/Markdown Rendered.md",
-    "Public/subfolder/Hidden Note.md",
     "Public/note about pasta.md",
     "Public/note about sauce.md",
     "Public/subfolder/pasta.md",
