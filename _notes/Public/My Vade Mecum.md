@@ -1,5 +1,5 @@
 ---
-title : vademecum
+title : My Vade Mecum
 notetype : nofeed
 date created: 2022-01-01
 ---
