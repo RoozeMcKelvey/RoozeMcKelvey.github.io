@@ -4,7 +4,7 @@ notetype : nofeed
 date created: 2022-01-01
 ---
 
-![[vademecum.png]]
+<img src="/assets/img/vademecum.png" />
 # Welcome to my Vade Mecum of Life. 
 
 It began with the need of an outside influence to provide some tether to reality when I was struggling with mental health issues. The first document was [[Look Here]], a tool that in its current iteration has evolved in the specifics but continue to serve its specific function.
