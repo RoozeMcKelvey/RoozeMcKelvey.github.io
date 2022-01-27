@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Jekyll Garden v 0.3 (Stable)
 
 This is a simple Jekyll theme created for building a digital garden with Obsidian and Github Pages. You have to fork this theme to your Github account, configure Github pages, and start using the `_notes` folder as the Obsidian vault. Check out [the demo](https://jekyll-garden.github.io/). 
@@ -46,6 +47,8 @@ The theme is available as open source under the terms of the [MIT License](http:
 =======
 =======
 >>>>>>> parent of 979c317 (nuke and restart)
+=======
+>>>>>>> parent of 979c317 (nuke and restart)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/RoozeMcKelvey/RoozeMcKelvey.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -84,6 +87,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 979c317 (nuke and restart)
+=======
 >>>>>>> parent of 979c317 (nuke and restart)
 =======
 >>>>>>> parent of 979c317 (nuke and restart)
