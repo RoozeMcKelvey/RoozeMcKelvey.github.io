@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/defined.md",
+            "file": "_notes/Public/vademecum.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/defined.md",
+                "file": "_notes/Public/vademecum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "ffba0c594aa86d34",
   "lastOpenFiles": [
-    "_notes/Public/defined.md",
     "_notes/Public/vademecum.md",
+    "_notes/Public/defined.md",
     "_notes/Private/Markdown Rendered.md",
     "pages/notes.md",
     "pages/posts.md",
